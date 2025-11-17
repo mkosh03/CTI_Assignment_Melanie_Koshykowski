@@ -1,4 +1,5 @@
 | **Adversary**      | Portal Kombat, a group of pro-Russia information operations (IO) actors.                                                                                                   |   |   |   |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
 | **Infrastructure** | Operated a network of domains in many geographic regions stemming from a single actor-controlled domain. These domains act as amplifiers of pro-Russia content.            |   |   |   |
 | **Capability**     | Spreading pro-Russia disinformation content by creating an established online ecosystem. This has the capability influence society's view on Russia's invasion of Ukraine. |   |   |   |
 | **Victim**         | Anyone across many geographic regions looking for information on Russia's invasion of Ukraine online.                                                                      |   |   |   |
